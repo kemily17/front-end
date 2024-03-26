@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pizzaria </title>
+
+    <style>
+        body{
+            background-color: #58e4f7;
+            margin-left: 20%;
+            margin-right: 20%;
+            border: 4px dotted rgb(51, 15, 209);
+            padding: 10px 10px 10px 10px;
+        }
+        h1.titulo{
+            color:rgb(0, 36, 199);
+            font-family: Verdana, Geneva, Tahoma;
+            font-size: 30pt;
+            text-align: center;
+            text-shadow: 4px 4px 4px #075661;
+        }
+        img{border: 4px solid rgb(73, 15, 209); margin-left: 2%;margin-right: 10px;}
+        h2.sub-titulo{
+            color:rgb(90, 5, 116);
+            font-family: Verdana, Geneva, Tahoma;
+            text-shadow: 2px 2px 2px rgb(11, 75, 170);
+            text-align: center;
+            font-weight: bold;
+        }
+        li.menu{
+            color: rgb(43, 13, 211);
+            font-family: Verdana, Geneva, Tahoma;
+            text-shadow: 2px 2px 2px white;
+            text-align: center;
+            font-weight: bold;
+        }
+        p.menu-texto{
+            font-family: Verdana, Geneva, Tahoma;                      
+        }
+        p{
+            font-family: Verdana;
+            margin-left: 2em;margin-right: 10px;
+            font-size: 15px;  
+            color: rgb(0, 0, 0);      
+        }
+    </style>
+
+</head>
+
+<body>
+    <h1 class="titulo">Pizzaria da Nonna</h1>
+    <br>
+    <img src="pizza_calabresa_e_mussarela_4389_600.jpg" alt="imagem de pizza" width="130" height="130" border="4">
+    <img src="download.jpeg" alt="imagem de pizza" width="130" height="130" border="4">
+    <img src="images.jpeg" alt="imagem de pizza" width="130" height="130" border="4">
+    <img src="babbo-giovanni-curitiba.jpg" alt="imagem de pizza" width="130" height="130" border="4">
+    <img src="pizza salgada).jpeg" alt="imagem de pizza" width="130" height="130" border="4">
+   
+    <h2 class="sub-titulo">Cardápio - Pizzas Salgadas</h2>
+    <br>
+    <ol>
+        <li class="menu"> calabresa - R$35,00</li>
+        <p class="menu-texto">Ingredientes: calabresa,masa de tomate,   </p>
+        <hr>
+        <li class="menu"> quatro queijo - R$35,00</li>
+        <p class="menu-texto">Ingredientes: queijo Parmesão, queijo Gruyere, queijo Maasdam e queijo Estepe.</p>
+        <hr>
+        <li class="menu"> Frango com catupiry - R$35,00 </li>
+        <p class="menu-texto">Ingredientes: mussarela, frango desfiado, orégano e catupiry</p>
+        <hr>
+        <li class="menu"> tomate R$35,00</li>
+        <p class="menu-texto">Ingredientes:tomate, masa de tomate, queijo, calabresa,  </p>
+        <hr>
+        <li class="menu"> brocolis  - R$35,00</li>
+        <p class="menu-texto">Ingredientes: muçarela, napolitana, frango com catupiry, margurita, brocolis </p>
+        <hr>
+        <img src="kemily.webp" alt="imagem de pizza" width="130" height="130" border="4">
+        <img src="pizza doce.jpeg" alt="imagem de pizza" width="130" height="130" border="4">
+        <img src="images (4).jpeg" alt="imagem de pizza" width="130" height="130" border="4">
+        <img src="images (2).jpeg" alt="imagem de pizza" width="130" height="130" border="4">
+        <img src="vitoria.webp" alt="imagem de pizza" width="130" height="130" border="4">
+       
+        <h2 class="sub-titulo">Cardápio - Pizzas doce</h2>
+        <br>
+        <ol>
+            <li class="menu"> dois amores - R$35,00</li>
+            <p class="menu-texto">Ingredientes: chocolate branco, chocolate preto </p>
+            <hr>
+            <li class="menu"> chocolate com morango- R$35,00</li>
+            <p class="menu-texto">Ingredientes: chocolate ao leite, granulado, morango</p>
+            <hr>
+            <li class="menu"> banana - R$38,00</li>
+            <p class="menu-texto">Ingredientes: banana, canela, chocolate</p>
+            <hr>
+            <li class="menu"> mista- R$35,00</li>
+        <p class="menu-texto">Ingredientes: coco, mm, morango, chocolate, leite ninho, banana</p>
+        <hr>
+        <li class="menu"> diskete com morango - R$35,00</li>
+        <p class="menu-texto">Ingredientes:morango, chocolate oa leite, mm</p>
+        <hr> 
+
+    
+    </ol>
+    <p>Whatsapp: (44) 99877-4433 <br>
+        Instagran: @pizzariadanonna <br>
+        Facebook: Pizzaria da Nonna
+    </p>
+
+</body>
+</html>
