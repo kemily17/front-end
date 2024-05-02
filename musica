@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Música online</title>
+</head>
+<body background="amine.jpg" style="margin-left: 10%; margin-right: 10%; margin-top: 10%; border: 4px double rgb(14, 13, 13); background-color: #060708;">
+    <img src="logo-music-bg.png" alt="logo de música" style="float: left; margin-left: 220px; display: block;">
+    <img src="music1-removebg.png" alt="simbolo música">
+    <h1 style="color:#ac08ece0; font-size: 50px; text-align: center; margin-right: 35%;">MusicDot</h1>
+    <h2 style="color: rgb(124, 3, 124);font-size: 30px; text-align: center;">Bem-vindo   à   MusicDot,   seu portal  de  cursos  de  música  online.</h2>
+    <ul style="color: rgb(8, 4, 10); font-size: 28px;text-align: center; list-style: none; margin-right: 22%;" >
+        <li>Confira nossas  promoções.</li>
+        <li>Receba  informações sobre   nossos  lançamentos por email.</li>
+        <li>Navegue por todos   nossos  cursos  disponíveis.</li>
+        <li>Aprenda sem sair    de  casa.</li>
+    </ul>
+</body>
+</html>
